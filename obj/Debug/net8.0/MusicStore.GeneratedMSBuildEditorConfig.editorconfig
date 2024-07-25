@@ -13,15 +13,24 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MusicStore
-build_property.ProjectDir = /Users/linzhanhui/RiderProjects/MusicStore/
+build_property.ProjectDir = E:\Workspace\LocalWorkSpace\RiderProjects\AvaloniaMusicStore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/Users/linzhanhui/RiderProjects/MusicStore/App.axaml]
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/linzhanhui/RiderProjects/MusicStore/Icons.axaml]
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/Icons.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/linzhanhui/RiderProjects/MusicStore/Views/MainWindow.axaml]
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/Views/AlbumView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/Views/MusicStoreView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[E:/Workspace/LocalWorkSpace/RiderProjects/AvaloniaMusicStore/Views/MusicStoreWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
